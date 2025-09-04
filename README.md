@@ -1,2 +1,2 @@
-﻿# Mikrosam_NCAnalyser
+﻿# CNC_Analyser
 
