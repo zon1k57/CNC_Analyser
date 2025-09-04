@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O9LMx77Dh3FQXkijJ+r+SLmlsWAs2on6EcNy+Aw1wJ59kJ6gaSdIhPl6qcOqxABitMchGMQEp0tEnj00RZr64g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\viktors\\Desktop\\CNC Analyser\\Analyser\\Analyser\\Analyser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\viktors\\.nuget\\packages\\helixtoolkit.wpf\\2.27.2\\helixtoolkit.wpf.2.27.2.nupkg.sha512"
+  ],
+  "logs": []
+}

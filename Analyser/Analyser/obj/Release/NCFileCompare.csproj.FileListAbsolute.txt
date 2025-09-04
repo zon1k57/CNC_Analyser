@@ -1,0 +1,8 @@
+\\intranet2\Interns\2025\viktors\NCFileCompare\NCFileCompare\bin\Release\NCFileCompare.exe.config
+\\intranet2\Interns\2025\viktors\NCFileCompare\NCFileCompare\bin\Release\NCFileCompare.exe
+\\intranet2\Interns\2025\viktors\NCFileCompare\NCFileCompare\bin\Release\NCFileCompare.pdb
+\\intranet2\Interns\2025\viktors\NCFileCompare\NCFileCompare\obj\Release\NCCodeCompare.MainForm.resources
+\\intranet2\Interns\2025\viktors\NCFileCompare\NCFileCompare\obj\Release\NCFileCompare.csproj.GenerateResource.cache
+\\intranet2\Interns\2025\viktors\NCFileCompare\NCFileCompare\obj\Release\NCFileCompare.csproj.CoreCompileInputs.cache
+\\intranet2\Interns\2025\viktors\NCFileCompare\NCFileCompare\obj\Release\NCFileCompare.exe
+\\intranet2\Interns\2025\viktors\NCFileCompare\NCFileCompare\obj\Release\NCFileCompare.pdb

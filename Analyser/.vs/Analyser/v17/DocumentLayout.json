@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\intranet2\\Interns\\2025\\viktors\\Analyser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76AF3774-84A3-481B-B4EF-323EE5A8D8BB}|Analyser\\Analyser.csproj|\\\\intranet2\\interns\\2025\\viktors\\analyser\\analyser\\graphform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AF3774-84A3-481B-B4EF-323EE5A8D8BB}|Analyser\\Analyser.csproj|\\\\intranet2\\interns\\2025\\viktors\\analyser\\analyser\\models\\ncfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AF3774-84A3-481B-B4EF-323EE5A8D8BB}|Analyser\\Analyser.csproj|\\\\intranet2\\interns\\2025\\viktors\\analyser\\analyser\\graphform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AF3774-84A3-481B-B4EF-323EE5A8D8BB}|Analyser\\Analyser.csproj|\\\\intranet2\\interns\\2025\\viktors\\analyser\\analyser\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NCFile.cs",
+              "DocumentMoniker": "\\\\intranet2\\Interns\\2025\\viktors\\Analyser\\Analyser\\Models\\NCFile.cs",
+              "RelativeDocumentMoniker": "Analyser\\Models\\NCFile.cs",
+              "ToolTip": "\\\\intranet2\\Interns\\2025\\viktors\\Analyser\\Analyser\\Models\\NCFile.cs",
+              "RelativeToolTip": "Analyser\\Models\\NCFile.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAgwNkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:57:48.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GraphForm.cs",
+              "DocumentMoniker": "\\\\intranet2\\Interns\\2025\\viktors\\Analyser\\Analyser\\GraphForm.cs",
+              "RelativeDocumentMoniker": "Analyser\\GraphForm.cs",
+              "ToolTip": "\\\\intranet2\\Interns\\2025\\viktors\\Analyser\\Analyser\\GraphForm.cs",
+              "RelativeToolTip": "Analyser\\GraphForm.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAIwLUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:45:28.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GraphForm.cs [Design]",
+              "DocumentMoniker": "\\\\intranet2\\Interns\\2025\\viktors\\Analyser\\Analyser\\GraphForm.cs",
+              "RelativeDocumentMoniker": "Analyser\\GraphForm.cs",
+              "ToolTip": "\\\\intranet2\\Interns\\2025\\viktors\\Analyser\\Analyser\\GraphForm.cs [Design]",
+              "RelativeToolTip": "Analyser\\GraphForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:41:47.309Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "\\\\intranet2\\Interns\\2025\\viktors\\Analyser\\Analyser\\MainForm.cs",
+              "RelativeDocumentMoniker": "Analyser\\MainForm.cs",
+              "ToolTip": "\\\\intranet2\\Interns\\2025\\viktors\\Analyser\\Analyser\\MainForm.cs",
+              "RelativeToolTip": "Analyser\\MainForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:06:53.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

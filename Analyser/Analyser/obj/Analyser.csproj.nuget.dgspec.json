@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\viktors\\Desktop\\CNC Analyser\\Analyser\\Analyser\\Analyser.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\viktors\\Desktop\\CNC Analyser\\Analyser\\Analyser\\Analyser.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\viktors\\Desktop\\CNC Analyser\\Analyser\\Analyser\\Analyser.csproj",
+        "projectName": "Analyser",
+        "projectPath": "C:\\Users\\viktors\\Desktop\\CNC Analyser\\Analyser\\Analyser\\Analyser.csproj",
+        "packagesPath": "C:\\Users\\viktors\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\viktors\\Desktop\\CNC Analyser\\Analyser\\Analyser\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\viktors\\Desktop\\CNC Analyser\\Analyser\\NuGet.Config",
+          "C:\\Users\\viktors\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\viktors\\Desktop\\CNC Analyser\\Analyser\\NuGetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "HelixToolkit.Wpf": {
+              "target": "Package",
+              "version": "[2.27.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

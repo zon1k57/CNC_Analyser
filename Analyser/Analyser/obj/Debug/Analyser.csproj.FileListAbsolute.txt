@@ -1,0 +1,56 @@
+\\intranet2\Interns\2025\viktors\Analyser\Analyser\bin\Debug\NCFileCompare.exe.config
+\\intranet2\Interns\2025\viktors\Analyser\Analyser\bin\Debug\NCFileCompare.exe
+\\intranet2\Interns\2025\viktors\Analyser\Analyser\bin\Debug\NCFileCompare.pdb
+\\intranet2\Interns\2025\viktors\Analyser\Analyser\obj\Debug\Analyser.csproj.AssemblyReference.cache
+\\intranet2\Interns\2025\viktors\Analyser\Analyser\obj\Debug\NCFileCompare.exe.config
+\\intranet2\Interns\2025\viktors\Analyser\Analyser\obj\Debug\NCFileCompare.ExternalForm.resources
+\\intranet2\Interns\2025\viktors\Analyser\Analyser\obj\Debug\NCFileCompare.Properties.Resources.resources
+\\intranet2\Interns\2025\viktors\Analyser\Analyser\obj\Debug\Analyser.csproj.GenerateResource.cache
+\\intranet2\Interns\2025\viktors\Analyser\Analyser\obj\Debug\Analyser.csproj.CoreCompileInputs.cache
+\\intranet2\Interns\2025\viktors\Analyser\Analyser\obj\Debug\NCFileCompare.exe
+\\intranet2\Interns\2025\viktors\Analyser\Analyser\obj\Debug\NCFileCompare.pdb
+\\intranet2\Interns\2025\viktors\Analyser\Analyser\obj\Debug\NCFileCompare.AxesLimitForm.resources
+C:\Users\viktors\source\repos\Analyser\Analyser\bin\Debug\NCFileCompare.exe.config
+C:\Users\viktors\source\repos\Analyser\Analyser\bin\Debug\NCFileCompare.exe
+C:\Users\viktors\source\repos\Analyser\Analyser\bin\Debug\NCFileCompare.pdb
+C:\Users\viktors\source\repos\Analyser\Analyser\obj\Debug\Analyser.csproj.AssemblyReference.cache
+C:\Users\viktors\source\repos\Analyser\Analyser\obj\Debug\NCFileCompare.exe.config
+C:\Users\viktors\source\repos\Analyser\Analyser\obj\Debug\NCFileCompare.AxesLimitForm.resources
+C:\Users\viktors\source\repos\Analyser\Analyser\obj\Debug\NCFileCompare.ExternalForm.resources
+C:\Users\viktors\source\repos\Analyser\Analyser\obj\Debug\NCFileCompare.Properties.Resources.resources
+C:\Users\viktors\source\repos\Analyser\Analyser\obj\Debug\NCFileCompare.VariableForm.resources
+C:\Users\viktors\source\repos\Analyser\Analyser\obj\Debug\Analyser.csproj.GenerateResource.cache
+C:\Users\viktors\source\repos\Analyser\Analyser\obj\Debug\Analyser.csproj.CoreCompileInputs.cache
+C:\Users\viktors\source\repos\Analyser\Analyser\obj\Debug\NCFileCompare.exe
+C:\Users\viktors\source\repos\Analyser\Analyser\obj\Debug\NCFileCompare.pdb
+C:\Users\viktors\source\repos\Analyser\Analyser\obj\Debug\NCFileCompare.MainForm.resources
+\\intranet2\Interns\2025\viktors\Analyser\Analyser\obj\Debug\NCFileCompare.MainForm.resources
+\\intranet2\Interns\2025\viktors\Analyser\Analyser\obj\Debug\NCFileCompare.GraphForm.resources
+\\intranet2\Interns\2025\viktors\Analyser\Analyser\obj\Debug\NCFileCompare.CompareForm.resources
+\\intranet2\Interns\2025\viktors\Analyser\Analyser\bin\Debug\HelixToolkit.Wpf.dll
+\\intranet2\Interns\2025\viktors\Analyser\Analyser\obj\Debug\Analyser.csproj.Up2Date
+=======
+C:\Users\viktors\source\repos\Analyser\Analyser\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\viktors\source\repos\Analyser\Analyser\obj\Debug\NCFileCompare.CompareForm.resources
+C:\Users\viktors\source\repos\Analyser\Analyser\obj\Debug\NCFileCompare.GraphForm.resources
+C:\Users\viktors\source\repos\Analyser\Analyser\obj\Debug\Analyser.csproj.Up2Date
+\\intranet2\Interns\2025\viktors\Analyser\Analyser\obj\Debug\NCFileCompare.SimulatorForm.resources
+\\intranet2\Interns\2025\viktors\Analyser\Analyser\obj\Debug\NCFileCompare.SettingsForm.resources
+C:\Users\viktors\Desktop\CNC Analyser\Analyser\Analyser\bin\Debug\NCFileCompare.exe.config
+C:\Users\viktors\Desktop\CNC Analyser\Analyser\Analyser\bin\Debug\NCFileCompare.exe
+C:\Users\viktors\Desktop\CNC Analyser\Analyser\Analyser\bin\Debug\NCFileCompare.pdb
+C:\Users\viktors\Desktop\CNC Analyser\Analyser\Analyser\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\viktors\Desktop\CNC Analyser\Analyser\Analyser\obj\Debug\Analyser.csproj.AssemblyReference.cache
+C:\Users\viktors\Desktop\CNC Analyser\Analyser\Analyser\obj\Debug\NCFileCompare.CompareForm.resources
+C:\Users\viktors\Desktop\CNC Analyser\Analyser\Analyser\obj\Debug\NCFileCompare.GraphForm.resources
+C:\Users\viktors\Desktop\CNC Analyser\Analyser\Analyser\obj\Debug\NCFileCompare.SimulatorForm.resources
+C:\Users\viktors\Desktop\CNC Analyser\Analyser\Analyser\obj\Debug\NCFileCompare.AxesLimitForm.resources
+C:\Users\viktors\Desktop\CNC Analyser\Analyser\Analyser\obj\Debug\NCFileCompare.ExternalForm.resources
+C:\Users\viktors\Desktop\CNC Analyser\Analyser\Analyser\obj\Debug\NCFileCompare.MainForm.resources
+C:\Users\viktors\Desktop\CNC Analyser\Analyser\Analyser\obj\Debug\NCFileCompare.Properties.Resources.resources
+C:\Users\viktors\Desktop\CNC Analyser\Analyser\Analyser\obj\Debug\NCFileCompare.SettingsForm.resources
+C:\Users\viktors\Desktop\CNC Analyser\Analyser\Analyser\obj\Debug\Analyser.csproj.GenerateResource.cache
+C:\Users\viktors\Desktop\CNC Analyser\Analyser\Analyser\obj\Debug\Analyser.csproj.CoreCompileInputs.cache
+C:\Users\viktors\Desktop\CNC Analyser\Analyser\Analyser\obj\Debug\Analyser.csproj.CopyComplete
+C:\Users\viktors\Desktop\CNC Analyser\Analyser\Analyser\obj\Debug\NCFileCompare.exe
+C:\Users\viktors\Desktop\CNC Analyser\Analyser\Analyser\obj\Debug\NCFileCompare.pdb
