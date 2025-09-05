@@ -1,0 +1,24 @@
+[Axes] # Write axes here so they can be parsed
+X
+Y
+Z
+A
+B
+C
+Q
+
+[Params] # Write parameters here so they can be parsed
+P
+R
+
+[CourseSequence] # This section is for new course detection
+V.E.CourseSequence
+CURRENT_COURSE
+
+[LayupStart] # This sections is for layup start detection
+M01
+
+[LayupEnd] # This sections is for layup end detection (you can leave it empty)
+M02
+
+#NOTE: Delete commented text (#) if you want to use this file to test

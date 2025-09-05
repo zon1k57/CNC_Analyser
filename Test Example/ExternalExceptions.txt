@@ -1,0 +1,1 @@
+# In here exceptions are added trough the external exceptions button in settings

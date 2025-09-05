@@ -1,0 +1,2 @@
+# In here limits are auto generated after you save the variables in Axes limit button
+# Note: YOU MUST SAVE THE LIMITS TROUGH AXES LIMIT BUTTON BEFORE YOU DO LIMIT TEST
