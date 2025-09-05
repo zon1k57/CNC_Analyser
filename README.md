@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Intro](#intro)
 - [Setup](#setup)
+- [Usage](#usage)
 
 ## Intro
 Hello, this is my first solo project, a CNC analyser where it has these features:
